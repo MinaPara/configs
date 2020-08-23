@@ -16,3 +16,5 @@
 .primevideo.com
 .disneyplus.com
 plus.espn.com
+.bbc.co.uk
+.syfy.com
